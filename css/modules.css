@@ -797,7 +797,7 @@ textarea {
   border: 2px solid #666;
   border-radius: 0;
 
-  vertical-align: middle;
+  /* vertical-align: middle; */
 }
 
 label {
@@ -1251,5 +1251,6 @@ a:focus, [tabindex="0"]:focus {
     page-break-after: avoid;
   }
 
-  /* End HTML5 Boilerplate code */
 }
+
+/* End HTML5 Boilerplate code */
